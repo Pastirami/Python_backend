@@ -1,0 +1,1 @@
+console.log("script_create.js chargé");
